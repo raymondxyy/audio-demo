@@ -4,4 +4,6 @@
 
 ## Demos
 
-- Amplitude quantization (quantize/)
+Click on the "binder" badge above to start. Supported notebooks are listed below.
+
+- Amplitude quantization (quantize/Amplitude Quantization.ipynb)
